@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Zahra.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounti zahra](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
 # Objectives
 
