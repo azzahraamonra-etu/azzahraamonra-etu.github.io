@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Welcome to my Data Science Portfolio
 layout: home
 description: Jekyll Feel free to scroll down to explore all my previous work and projects. Or click the contact button to reach me out.
 intro_image: "images/illustrations/pointing.svg"
