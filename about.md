@@ -1,7 +1,7 @@
 ---
-title: About
+title: About Me
 layout: page
-description: About Me
+description: About
 bodyClass: page-about
 ---
 I am a Data Scientist with 4+ years of industry experience, an Eiffel Excellence Scholarship recipient, and an MSc student in Data Science at Université de Lille. I specialize in building robust end-to-end data systems—from cloud data architecture (BigQuery, GCP) to API design (Flask, Cloud Functions) and machine learning (Vertex AI).
