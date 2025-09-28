@@ -1,0 +1,11 @@
+---
+title: "SmartChatbot"
+weight: 3
+---
+Project Title: Smart Chatbot (DialoGPT)
+
+Technologies Used: Python, Streamlit, Hugging Face Transformers, PyTorch
+
+This project demonstrates an interactive conversational AI built using DialoGPT, a fine-tuned variant of GPT-2 specifically designed for dialogue generation. The chatbot is deployed with an intuitive and user-friendly interface using Streamlit, allowing users to chat with the AI in real-time.
+
+👉 View Live Demo: [Live Demo](https://smartchatbot-azzahramona.streamlit.app/)

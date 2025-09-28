@@ -14,4 +14,4 @@ Built-in logic for slide templates, automation rules, and content control
 
 Used in real agency pitch decks and media reporting presentations
 
-👉 View Live Demo: [https://powerpoint-deck-generator.streamlit.app/](https://powerpoint-deck-generator.streamlit.app/)
+👉 View Live Demo: [Live Demo](https://powerpoint-deck-generator.streamlit.app/)
