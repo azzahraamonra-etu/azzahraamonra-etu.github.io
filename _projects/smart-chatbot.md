@@ -2,7 +2,6 @@
 title: "SmartChatbot"
 weight: 3
 ---
-Project Title: Smart Chatbot (DialoGPT)
 
 Technologies Used: Python, Streamlit, Hugging Face Transformers, PyTorch
 
