@@ -10,11 +10,17 @@
       </a>
     </div>
     {% endif %}
+    {% if site.data.contact.github %}
+    <div class="call-github"><strong>Email: </strong>
+      <a href="{{ site.data.contact.github_button_link }}" class="button">GitHub</a>
+        {{ site.data.contact.email }}
+      </a>
+    </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
         <a href="{{ site.data.contact.contact_button_link }}" class="button">Contact</a>
-        <a href="{{ site.github_button_link }}" class="button">GitHub</a>
       </div>
     {% endif %}
 </div>
