@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Data Engineering & Cloud Platforms",
+    "description": "Experience with Google Cloud Platform (BigQuery, Cloud Storage, Cloud Functions, Cloud Run) and migrating data infrastructure from on-premise to cloud. Built automated data pipelines for ingestion, transformation, and validation, and designed a three-tiered data warehousing architecture (live, staging, storage).",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Data Science & Machine Learning",
+    "description": "Developed forecasting models using Vertex AI and built Media ROI and Marketing Mix Models to evaluate marketing effectiveness. Applied optimization techniques and linear programming for strategic decision-making.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Development & Automation",
+    "description": "Built backend APIs using Flask and REST, and developed automated document processing solutions with Document AI for vendor PO parsing. Created chatbots using Gemini API and Streamlit, automated reporting with PowerPoint, Excel, and Python, and built interactive business intelligence apps with Streamlit.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
