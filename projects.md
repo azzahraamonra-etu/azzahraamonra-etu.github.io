@@ -8,5 +8,3 @@ intro_image_hide_on_mobile: true
 ---
 
 # Projects I have worked on
-
- YouTube Data Analytics with YouTube Data API

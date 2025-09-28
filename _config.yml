@@ -1,6 +1,6 @@
 baseurl: '/azzahraamonra-etu.github.io'
 permalink: pretty
-title: 'Welcome to my Data Science Portfolio'
+title:
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
